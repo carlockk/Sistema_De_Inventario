@@ -10,6 +10,7 @@ El sistema permite la inserción de contenido, permite eliminar o editar y tambi
 
 También permite:
 - Observaciones
+- Subir imágenes
 - Suma de totales
 
 Es un sistema basico pero quizas lo pueden mejorar, para eso está para que lo puedan usar y mejorar.
