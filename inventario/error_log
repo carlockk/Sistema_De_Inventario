@@ -1,0 +1,182 @@
+[22-Sep-2024 16:46:45 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:46:45 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:46:45 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:46:45 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:46:45 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:46:45 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:51:49 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:52:05 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:54:47 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:54:47 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:54:47 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:55:03 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:55:03 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:55:03 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:55:03 America/Santiago] PHP Warning:  Undefined variable $pdo in /home4/atlant24/public_html/inventario/admin_users.php on line 22
+[22-Sep-2024 16:55:03 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/atlant24/public_html/inventario/admin_users.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/admin_users.php on line 22
+[22-Sep-2024 16:55:32 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:55:32 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:55:32 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/index.php on line 3
+[22-Sep-2024 16:55:39 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:55:39 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:55:39 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:59:27 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:59:27 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 16:59:27 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:00:07 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:00:07 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:00:07 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:00:07 America/Santiago] PHP Warning:  Undefined variable $pdo in /home4/atlant24/public_html/inventario/admin_users.php on line 23
+[22-Sep-2024 17:00:07 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/atlant24/public_html/inventario/admin_users.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/admin_users.php on line 23
+[22-Sep-2024 17:00:55 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:10) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:00:59 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:10) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:01:04 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:10) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:02:27 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:7) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:02:29 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:7) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:02:29 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:7) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:02:29 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:7) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:02:29 America/Santiago] PHP Fatal error:  Cannot redeclare check_super_admin() (previously declared in /home4/atlant24/public_html/inventario/admin_users.php:7) in /home4/atlant24/public_html/inventario/admin_users.php on line 26
+[22-Sep-2024 17:02:43 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:02:43 America/Santiago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:02:43 America/Santiago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/atlant24/public_html/inventario/admin_users.php on line 3
+[22-Sep-2024 17:19:40 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'total_price' in table 'products' is not allowed. in /home4/atlant24/public_html/inventario/index.php:66
+Stack trace:
+#0 /home4/atlant24/public_html/inventario/index.php(66): PDO->prepare('INSERT INTO pro...')
+#1 {main}
+  thrown in /home4/atlant24/public_html/inventario/index.php on line 66
+[24-Sep-2024 15:12:50 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entrada.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entrada.php on line 4
+[24-Sep-2024 15:12:58 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/salida.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/salida.php on line 4
+[24-Sep-2024 15:16:01 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entrada.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entrada.php on line 4
+[24-Sep-2024 15:32:17 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:32:17 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:32:17 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:32:17 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:32:17 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:32:17 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:03 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:35:03 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:03 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:35:03 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:03 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:35:03 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:56 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:35:56 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:56 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:35:56 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:56 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:35:56 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:35:58 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:36:08 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:36:08 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:36:08 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:36:08 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:36:08 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:36:08 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:36:15 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:36:19 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:36:19 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:36:19 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:36:19 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:36:19 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:36:19 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:39:33 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:39:35 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:39:35 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:39:35 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:39:35 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:39:35 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:39:35 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:03 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:03 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:03 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:03 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:03 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:03 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:05 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:40:08 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:40:10 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:10 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:10 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:10 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:10 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:10 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:12 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/salidas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/salidas.php on line 4
+[24-Sep-2024 15:40:14 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:14 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:14 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:14 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:14 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:14 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 142
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 143
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "description" in /home4/atlant24/public_html/inventario/index.php on line 180
+[24-Sep-2024 15:40:24 America/Santiago] PHP Warning:  Undefined array key "image" in /home4/atlant24/public_html/inventario/index.php on line 183
+[24-Sep-2024 15:54:50 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:54:55 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/salidas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/salidas.php on line 4
+[24-Sep-2024 15:55:30 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
+[24-Sep-2024 15:55:53 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home4/atlant24/public_html/inventario/entradas.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/atlant24/public_html/inventario/entradas.php on line 4
